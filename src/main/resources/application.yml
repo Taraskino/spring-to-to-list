@@ -1,0 +1,8 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    username: muzychka
+    password: Taras2021
+    url: jdbc:sqlserver://morfeusz.wszib.edu.pl:1433;databaseName=muzychka
